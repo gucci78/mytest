@@ -1,1 +1,1 @@
-
+print("Hello new.py")
